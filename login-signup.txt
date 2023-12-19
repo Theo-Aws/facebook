@@ -1,0 +1,2 @@
+users can signup with name, email and password
+users can log =in with email and password
